@@ -1,0 +1,17 @@
+{
+  "title": "check-if-an-array-is-sorted0701",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "array",
+    "loop",
+    "conditions"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-08-04"
+}

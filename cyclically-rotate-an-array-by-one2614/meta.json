@@ -1,0 +1,16 @@
+{
+  "title": "cyclically-rotate-an-array-by-one2614",
+  "languages": [
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "array",
+    "implementation",
+    "loop"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-08-04"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "array-insert-at-end",
+  "languages": [
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "array", "insertion", "list"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-07-31"
+}

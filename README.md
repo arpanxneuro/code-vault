@@ -1,4 +1,4 @@
-# ⚡ CodexHub
+# ⚡ CodeVault
 
 A centralized vault of coding problems and algorithmic solutions categorized by competitive programming platforms.
 
@@ -9,10 +9,7 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 ## 📚 Platforms Covered
 
 - 📘 [LeetCode](./leetcode/)
-- 🏁 [Codeforces](./codeforces/)
 - 🧠 [GeeksforGeeks](./gfg/)
-- 🔤 [AtCoder](./atcoder/)
-- 📦 [Others](./others/)
 
 ---
 
@@ -20,10 +17,9 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 
 | Platform     | Problems Solved | Last Updated |
 |--------------|------------------|---------------|
-| LeetCode     | 1                | 2025-07-15    |
+| LeetCode     | 2                | 2025-07-15    |
 | Codeforces   | 0                | YYYY-MM-DD    |
-| GFG          | 0                | YYYY-MM-DD    |
-| AtCoder      | 0                | YYYY-MM-DD    |
+| GFG          | 2                | 2025-07-28    |
 
 ---
 

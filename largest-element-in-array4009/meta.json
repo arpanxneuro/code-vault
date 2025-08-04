@@ -1,0 +1,9 @@
+{
+  "title": "Largest Element in Array",
+  "difficulty": "easy",
+  "tags": ["array", "loop", "comparison", "condition"],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "gfg",
+  "solvedOn": "2025-07-28"
+}

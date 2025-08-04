@@ -1,0 +1,9 @@
+{
+  "title": "Second Largest",
+  "difficulty": "easy",
+  "tags": ["array", "loop", "linear scan", "condition"],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "geeksforgeeks",
+  "solvedOn": "2025-07-28"
+}
