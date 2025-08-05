@@ -1,16 +1,13 @@
 {
-  "title": "second-largest3735",
+  "title": "frequency-of-array-elements-1587115620",
   "languages": [
-    "c",
     "py"
   ],
   "difficulty": "easy",
   "tags": [
     "array",
-    "loop",
-    "condition",
-    "searching",
-    "dsa"
+    "hash",
+    "data structure"
   ],
   "timeComplexity": "O(n)",
   "spaceComplexity": "O(1)",

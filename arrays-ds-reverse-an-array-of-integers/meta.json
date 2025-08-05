@@ -1,5 +1,5 @@
 {
-  "title": "second-largest3735",
+  "title": "arrays-ds-reverse-an-array-of-integers",
   "languages": [
     "c",
     "py"
@@ -7,13 +7,10 @@
   "difficulty": "easy",
   "tags": [
     "array",
-    "loop",
-    "condition",
-    "searching",
-    "dsa"
+    "data structure"
   ],
   "timeComplexity": "O(n)",
   "spaceComplexity": "O(1)",
-  "platform": "GeeksforGeeks",
+  "platform": "HackerRank",
   "solvedOn": "2025-08-05"
 }

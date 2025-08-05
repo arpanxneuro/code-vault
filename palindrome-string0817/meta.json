@@ -1,15 +1,12 @@
 {
-  "title": "second-largest3735",
+  "title": "palindrome-string0817",
   "languages": [
     "c",
     "py"
   ],
   "difficulty": "easy",
   "tags": [
-    "array",
-    "loop",
-    "condition",
-    "searching",
+    "string",
     "dsa"
   ],
   "timeComplexity": "O(n)",
