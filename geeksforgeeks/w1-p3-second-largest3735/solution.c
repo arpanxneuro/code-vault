@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 int getSecondLargest(int *arr, int n) {
     if(n<2) return -1;
     int lg = arr[0], seclg = -1;

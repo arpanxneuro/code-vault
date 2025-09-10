@@ -1,0 +1,16 @@
+{
+  "title": "w2-p8-dynamic-array",
+  "languages": [
+    "c",
+    "py",
+    "ts"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "array"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "HackerRank",
+  "solvedOn": "2025-09-10"
+}

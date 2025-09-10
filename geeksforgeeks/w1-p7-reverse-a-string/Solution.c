@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 // User function Template for C
 char* reverseString(char* s) {
     int len = 0;

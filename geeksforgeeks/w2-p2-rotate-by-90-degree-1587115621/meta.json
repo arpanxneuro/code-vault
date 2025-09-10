@@ -1,0 +1,14 @@
+{
+  "title": "rotate-by-90-degree-1587115621",
+  "languages": [],
+  "difficulty": "medium",
+  "tags": [
+    "matrix",
+    "data structure",
+    "algorithm"
+  ],
+  "timeComplexity": "O(n^2)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-08-12"
+}

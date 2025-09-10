@@ -1,4 +1,4 @@
-#include <stdbool.h>    //external
+#include <stdbool.h>
 
 // User function template for C
 bool isPalindrome(char s[]) {

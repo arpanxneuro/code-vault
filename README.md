@@ -8,22 +8,24 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 
 ## 📚 Platforms Covered
 
-- 📘 [LeetCode](./leetcode/)
-- 🧠 [GeeksforGeeks](./gfg/)
+- [LeetCode](./leetcode/)
+- [GeeksforGeeks](./geeksforgeeks/)
+- [LeetCode](./hackerrank/)
 
 ---
 
-## 📈 Progress Snapshot (Manual or Scripted)
+## 📈 Progress Snapshot
 
-| Platform     | Problems Solved | Last Updated |
-|--------------|------------------|---------------|
-| LeetCode     | 2                | 2025-07-15    |
-| Codeforces   | 0                | YYYY-MM-DD    |
-| GFG          | 2                | 2025-07-28    |
+| Platform     | Problems Solved    | Last Updated  |
+|--------------|--------------------|---------------|
+| LeetCode     | 02                 | 2025-07-15    |
+| HackerRank   | 02                 | 2025-09-10    |
+| GFG          | 16                 | 2025-09-10    |
 
 ---
 
 ## 🧱 File Naming Convention
 
 ```bash
-<problem-id>-<kebab-case-title>.<language-ext>
+## only for LeetCode
+<problem-id>-<kebab-case-title>.<language-ext> 

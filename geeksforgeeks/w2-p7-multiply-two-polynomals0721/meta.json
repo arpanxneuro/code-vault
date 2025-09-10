@@ -1,0 +1,14 @@
+{
+  "title": "w2-p7-multiply-two-polynomals0721",
+  "languages": [],
+  "difficulty": "easy",
+  "tags": [
+    "mathematical",
+    "algorithms",
+    "samsung"
+  ],
+  "timeComplexity": "O(n*m)",
+  "spaceComplexity": "O(n+m)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-09-10"
+}
