@@ -74,10 +74,8 @@ A quick index of problems in this vault with links to their folders and the plat
 | Remove Loop in Linked List | [geeksforgeeks/w3-p7-remove-loop-in-linked-list](./geeksforgeeks/w3-p7-remove-loop-in-linked-list/) | GeeksforGeeks |
 | Reverse a Linked List | [geeksforgeeks/w3-p8-reverse-a-linked-list](./geeksforgeeks/w3-p8-reverse-a-linked-list/) | GeeksforGeeks |
 | Add Two Numbers Represented by Linked Lists | [geeksforgeeks/w3-p9-add-two-numbers-represented-by-linked-lists](./geeksforgeeks/w3-p9-add-two-numbers-represented-by-linked-lists/) | GeeksforGeeks |
-
 | Reverse an Array of Integers | [hackerrank/w1-p10-arrays-ds-reverse-an-array-of-integers](./hackerrank/w1-p10-arrays-ds-reverse-an-array-of-integers/) | HackerRank |
 | Dynamic Array | [hackerrank/w2-p8-dynamic-array](./hackerrank/w2-p8-dynamic-array/) | HackerRank |
 | Print the Elements of a Linked List | [hackerrank/w3-p10-print-the-elements-of-a-linked-list](./hackerrank/w3-p10-print-the-elements-of-a-linked-list/) | HackerRank |
-
 | Two Sum | [leetcode/001-two-sum](./leetcode/001-two-sum/) | LeetCode |
 | Palindrome Number | [leetcode/009-palindrome-number](./leetcode/009-palindrome-number/) | LeetCode |
