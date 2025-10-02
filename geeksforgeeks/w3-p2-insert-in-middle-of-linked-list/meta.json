@@ -1,0 +1,16 @@
+{
+  "title": "w3-p2-insert-in-middle-of-linked-list",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "linked list",
+    "data structure"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-09-21"
+}

@@ -1,3 +1,47 @@
+# Constraints:
+
+## 📝 Problem Statement
+
+- `1 ≤ arr.size() ≤ 10⁵`
+- `0 ≤ arr[i], val ≤ 10⁶`
+
+---
+
+---
+
+## 📥 Input
+
+- `arr[]`: An array of integers (not completely filled).
+- `val`: An integer to be inserted at the end.
+
+---
+
+## 📤 Output
+
+- Return the updated array with `val` inserted at the end.
+
+---
+
+---
+
+## 🔍 Examples
+
+_No examples provided in original README._
+
+---
+
+## 💡 Approach
+
+_Approach not described in original README._
+
+**Time Complexity:** O(n)
+
+**Space Complexity:** O(1)
+
+---
+
+## 🔁 Original README
+
 # 🧮 Array Insert at End
 
 > **Difficulty**: Basic  

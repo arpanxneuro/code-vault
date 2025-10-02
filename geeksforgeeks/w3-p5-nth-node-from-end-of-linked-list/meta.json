@@ -1,0 +1,16 @@
+{
+  "title": "w3-p5-nth-node-from-end-of-linked-list",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "linked list",
+    "data structures"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-02"
+}

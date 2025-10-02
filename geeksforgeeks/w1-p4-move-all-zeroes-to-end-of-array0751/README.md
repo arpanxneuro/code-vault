@@ -1,5 +1,48 @@
 # Move All Zeroes to End of Array
 
+## 📝 Problem Statement
+
+**Problem Code:** `move-all-zeroes-to-end-of-array0751`  
+**Difficulty:** Easy  
+**Accuracy:** 45.51%  
+**Average Time to Solve:** 15 minutes  
+
+---
+
+---
+
+## 📥 Input
+
+_Input format not specified in original README._
+
+---
+
+## 📤 Output
+
+_Output format not specified in original README._
+
+---
+
+## 🔍 Examples
+
+_No examples provided in original README._
+
+---
+
+## 💡 Approach
+
+_Approach not described in original README._
+
+**Time Complexity:** O(n)
+
+**Space Complexity:** O(1)
+
+---
+
+## 🔁 Original README
+
+# Move All Zeroes to End of Array
+
 **Problem Code:** `move-all-zeroes-to-end-of-array0751`  
 **Difficulty:** Easy  
 **Accuracy:** 45.51%  
@@ -39,4 +82,3 @@ This must be done **in-place**, meaning **no additional space** (like another ar
 
 - **Time:** `O(n)`
 - **Space:** `O(1)` (in-place)
-

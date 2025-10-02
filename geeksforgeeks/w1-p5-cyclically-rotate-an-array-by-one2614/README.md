@@ -1,3 +1,46 @@
+# Example 1:
+
+## 📝 Problem Statement
+
+```text
+Input:  arr = [1, 2, 3, 4, 5]
+Output: [5, 1, 2, 3, 4]
+```
+
+---
+
+## 📥 Input
+
+- An integer array `arr[]` of size `n`.
+
+---
+
+## 📤 Output
+
+- Return or print the updated array after rotating by one position in the clockwise direction.
+
+---
+
+---
+
+## 🔍 Examples
+
+_No examples provided in original README._
+
+---
+
+## 💡 Approach
+
+_Approach not described in original README._
+
+**Time Complexity:** O(n)
+
+**Space Complexity:** O(1)
+
+---
+
+## 🔁 Original README
+
 # 🔁 Rotate Array by One (Clockwise)
 
 ## 🧩 Problem Statement
@@ -35,4 +78,3 @@ Output: [5, 1, 2, 3, 4]
 Input:  arr = [9, 8, 7, 6, 4, 2, 1, 3]
 Output: [3, 9, 8, 7, 6, 4, 2, 1]
 ```
-

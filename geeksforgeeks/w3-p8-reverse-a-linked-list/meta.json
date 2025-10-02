@@ -1,0 +1,13 @@
+{
+  "title": "w3-p8-reverse-a-linked-list",
+  "languages": [],
+  "difficulty": "easy",
+  "tags": [
+    "linked list",
+    "data structure"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-02"
+}

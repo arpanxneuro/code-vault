@@ -1,0 +1,18 @@
+{
+  "title": "w3-p3-delete-a-node-in-single-linked-list",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "linked list",
+    "data structure",
+    "samsung",
+    "adobe"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-09-21"
+}

@@ -1,5 +1,43 @@
 # Rotate a Matrix by 90 Degrees Anti-Clockwise
 
+## 📝 Problem Statement
+
+Given a square matrix `mat[][]` of size `n x n`, rotate it **90 degrees in an anti-clockwise direction** without using any extra space.
+
+---
+
+## 📥 Input
+
+_Input format not specified in original README._
+
+---
+
+## 📤 Output
+
+_Output format not specified in original README._
+
+---
+
+## 🔍 Examples
+
+_No examples provided in original README._
+
+---
+
+## 💡 Approach
+
+_Approach not described in original README._
+
+**Time Complexity:** O(n)
+
+**Space Complexity:** O(1)
+
+---
+
+## 🔁 Original README
+
+# Rotate a Matrix by 90 Degrees Anti-Clockwise
+
 ## Problem Statement
 Given a square matrix `mat[][]` of size `n x n`, rotate it **90 degrees in an anti-clockwise direction** without using any extra space.
 

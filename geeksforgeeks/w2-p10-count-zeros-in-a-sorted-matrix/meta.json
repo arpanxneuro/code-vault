@@ -1,0 +1,18 @@
+{
+  "title": "w2-p10-count-zeros-in-a-sorted-matrix",
+  "languages": [
+    "py",
+    "js"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "searching",
+    "matrix",
+    "data structures",
+    "algorithms"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-09-19"
+}

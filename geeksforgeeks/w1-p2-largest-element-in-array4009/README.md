@@ -1,12 +1,56 @@
 # Largest Element in Array
 
-**Difficulty:** Basic  
-**Accuracy:** 67.48%  
-**Submissions:** 491K+  
-**Points:** 1  
-**Average Time:** 20m
+## 📝 Problem Statement
+
+_No explicit problem statement found; see Original README below._
 
 ---
+
+## 📥 Input
+
+- An array `arr[]` of size `n`.
+
+**Constraints:**
+
+- `1 <= arr.size() <= 10^6`
+- `0 <= arr[i] <= 10^6`
+
+---
+
+---
+
+## 📤 Output
+
+- Return the largest element from the array.
+
+---
+
+---
+
+## 🔍 Examples
+
+_No examples provided in original README._
+
+---
+
+## 💡 Approach
+
+- Initialize a variable to store the maximum value.
+- Traverse the array once and update the maximum if a larger value is found.
+- Return the maximum value.
+
+**Time Complexity:** `O(n)`  
+**Space Complexity:** `O(1)`
+
+**Time Complexity:** O(n)
+
+**Space Complexity:** O(1)
+
+---
+
+## 🔁 Original README
+
+# Largest Element in Array
 
 ## 📝 Problem Statement
 
