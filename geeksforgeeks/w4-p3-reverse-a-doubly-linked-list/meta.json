@@ -1,0 +1,16 @@
+{
+  "title": "w4-p3-reverse-a-doubly-linked-list",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "doubly-linked-list",
+    "data structures"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-13"
+}

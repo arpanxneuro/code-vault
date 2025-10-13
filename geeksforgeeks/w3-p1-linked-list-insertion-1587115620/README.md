@@ -1,108 +1,28 @@
 # Linked List Insertion
 
-## 📝 Problem Statement
+**Difficulty**: Basic
 
-This exercise focuses on inserting a new node into a singly linked list. You are given a pointer to the head node of the linked list and an integer `data`. The task is to insert a new node containing `data` at the **end of the linked list**.  
+## Problem Statement
+Insert a new node with a given value at a specified position in a singly linked list. If the position is 0, the node becomes the new head.
 
-- If the linked list is empty (`head` is `NULL`), the new node becomes the head.
+## Input
+- A list of integers representing the linked list.
+- An integer `pos` (0-based) where the new node should be inserted.
+- An integer `val` the value to insert.
 
----
+## Output
+The linked list after insertion, represented as a sequence of node values.
 
----
+## Example
+Input: list = [1, 2, 3], pos = 1, val = 9
 
-## 📥 Input
+Output: [1, 9, 2, 3]
 
-- First line: integer `n`, number of nodes already in the linked list  
-- Next `n` lines: node values  
-- Last line: integer `data` to insert at the tail
+## Approach
+Traverse the list to the node at index `pos-1` and update pointers to insert the new node. Handle insertion at head (`pos = 0`) by creating the new node and making it the head.
 
-**Note:**  
-Do not read input from `stdin` or console. The function will receive the head reference and the integer `data`.
+## Time Complexity
+O(n)
 
----
-
----
-
-## 📤 Output
-
-_Output format not specified in original README._
-
----
-
-## 🔍 Examples
-
-3
-10
-20
-30
-40
-
----
-
-## 💡 Approach
-
-_Approach not described in original README._
-
-**Time Complexity:** ** \(O(n)\), since we may need to traverse the list to reach the tail
-
-**Space Complexity:** ** \(O(1)\), as insertion is done in-place
-
----
-
-## 🔁 Original README
-
-# Linked List Insertion
-
-## Problem Description
-This exercise focuses on inserting a new node into a singly linked list. You are given a pointer to the head node of the linked list and an integer `data`. The task is to insert a new node containing `data` at the **end of the linked list**.  
-
-- If the linked list is empty (`head` is `NULL`), the new node becomes the head.
-
----
-
-## Function Description
-Complete the `insertNodeAtTail` function with the following parameters:
-
-- **head**: a reference to the head of the linked list  
-- **data**: the value to insert
-
-**Return Requirement:**  
-Return the head of the modified linked list.
-
----
-
-## Input Format
-- First line: integer `n`, number of nodes already in the linked list  
-- Next `n` lines: node values  
-- Last line: integer `data` to insert at the tail
-
-**Note:**  
-Do not read input from `stdin` or console. The function will receive the head reference and the integer `data`.
-
----
-
-## Constraints
-- \(0 \leq n \leq 10^5\)  
-- Node values and `data` are 32-bit integers.
-
----
-
-## Sample Input
-3
-10
-20
-30
-40
-
-## Sample Output
-10 -> 20 -> 30 -> 40 -> NULL
-
-### Explanation
-- Original list: 10 -> 20 -> 30  
-- Insert 40 at the tail → 10 -> 20 -> 30 -> 40
-
----
-
-## Complexity Analysis
-- **Time Complexity:** \(O(n)\), since we may need to traverse the list to reach the tail  
-- **Space Complexity:** \(O(1)\), as insertion is done in-place
+## Space Complexity
+O(1)

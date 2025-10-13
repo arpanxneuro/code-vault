@@ -1,0 +1,16 @@
+{
+  "title": "w4-p2-delete-node-in-doubly-linked-list",
+  "languages": [
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "doubly-linked-list",
+    "data structures",
+    "algorithms"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-13"
+}

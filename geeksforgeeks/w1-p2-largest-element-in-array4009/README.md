@@ -1,56 +1,11 @@
-# Largest Element in Array
+# Largest Element in Array4009
 
-## 📝 Problem Statement
-
-_No explicit problem statement found; see Original README below._
-
----
-
-## 📥 Input
-
-- An array `arr[]` of size `n`.
-
-**Constraints:**
-
-- `1 <= arr.size() <= 10^6`
-- `0 <= arr[i] <= 10^6`
+> **Difficulty**: Basic  
+> **Accuracy**:   
+> **Submissions**:   
+> **Points**: 
 
 ---
-
----
-
-## 📤 Output
-
-- Return the largest element from the array.
-
----
-
----
-
-## 🔍 Examples
-
-_No examples provided in original README._
-
----
-
-## 💡 Approach
-
-- Initialize a variable to store the maximum value.
-- Traverse the array once and update the maximum if a larger value is found.
-- Return the maximum value.
-
-**Time Complexity:** `O(n)`  
-**Space Complexity:** `O(1)`
-
-**Time Complexity:** O(n)
-
-**Space Complexity:** O(1)
-
----
-
-## 🔁 Original README
-
-# Largest Element in Array
 
 ## 📝 Problem Statement
 
@@ -58,6 +13,8 @@ Given an array `arr[]`. The task is to find the largest element and return it.
 
 ---
 
+---
+
 ## 📥 Input
 
 - An array `arr[]` of size `n`.
@@ -69,49 +26,34 @@ Given an array `arr[]`. The task is to find the largest element and return it.
 
 ---
 
+---
+
 ## 📤 Output
 
 - Return the largest element from the array.
 
 ---
 
-## 🔍 Examples
+---
 
-### Example 1:
-**Input:**  
-`arr = [1, 8, 7, 56, 90]`  
-**Output:**  
-`90`  
-**Explanation:**  
-The largest element of the given array is `90`.
+## ✅ Examples
+
+Input:
+5
+1 2 3 4 5
+90
+Output:
+1 2 3 4 5 90
 
 ---
 
-### Example 2:
-**Input:**  
-`arr = [5, 5, 5, 5]`  
-**Output:**  
-`5`  
-**Explanation:**  
-All elements are the same; hence the largest is `5`.
+## 🧪 Test Cases
 
----
+| Input | Value | Output |
+|---|---|---|
+| `5
+1 2 3 4 5` | `90` | `1 2 3 4 5 90` |
 
-### Example 3:
-**Input:**  
-`arr = [10]`  
-**Output:**  
-`10`  
-**Explanation:**  
-There is only one element which is also the largest.
+**Time Complexity:** O(n)
 
----
-
-## 💡 Approach
-
-- Initialize a variable to store the maximum value.
-- Traverse the array once and update the maximum if a larger value is found.
-- Return the maximum value.
-
-**Time Complexity:** `O(n)`  
-**Space Complexity:** `O(1)`
+**Space Complexity:** O(1)

@@ -74,6 +74,10 @@ A quick index of problems in this vault with links to their folders and the plat
 | Remove Loop in Linked List | [geeksforgeeks/w3-p7-remove-loop-in-linked-list](./geeksforgeeks/w3-p7-remove-loop-in-linked-list/) | GeeksforGeeks |
 | Reverse a Linked List | [geeksforgeeks/w3-p8-reverse-a-linked-list](./geeksforgeeks/w3-p8-reverse-a-linked-list/) | GeeksforGeeks |
 | Add Two Numbers Represented by Linked Lists | [geeksforgeeks/w3-p9-add-two-numbers-represented-by-linked-lists](./geeksforgeeks/w3-p9-add-two-numbers-represented-by-linked-lists/) | GeeksforGeeks |
+| Insert in Sorted Way in a Sorted Doubly Linked List | [geeksforgeeks/w4-p1-insert-in-sorted-way-in-a-sorted-dll](./geeksforgeeks/w4-p1-insert-in-sorted-way-in-a-sorted-dll/) | GeeksforGeeks |
+| Delete Node in Doubly Linked List | [geeksforgeeks/w4-p2-delete-node-in-doubly-linked-list](./geeksforgeeks/w4-p2-delete-node-in-doubly-linked-list/) | GeeksforGeeks |
+| Reverse a Doubly Linked List | [geeksforgeeks/w4-p3-reverse-a-doubly-linked-list](./geeksforgeeks/w4-p3-reverse-a-doubly-linked-list/) | GeeksforGeeks |
+| Sorted Insert for Circular Linked List | [geeksforgeeks/w4-p4-sorted-insert-for-circular-linked-list](./geeksforgeeks/w4-p4-sorted-insert-for-circular-linked-list/) | GeeksforGeeks |
 | Reverse an Array of Integers | [hackerrank/w1-p10-arrays-ds-reverse-an-array-of-integers](./hackerrank/w1-p10-arrays-ds-reverse-an-array-of-integers/) | HackerRank |
 | Dynamic Array | [hackerrank/w2-p8-dynamic-array](./hackerrank/w2-p8-dynamic-array/) | HackerRank |
 | Print the Elements of a Linked List | [hackerrank/w3-p10-print-the-elements-of-a-linked-list](./hackerrank/w3-p10-print-the-elements-of-a-linked-list/) | HackerRank |

@@ -1,114 +1,27 @@
-# Nth Node From End of Linked List
+# Nth Node from End of Linked List
 
-## 📝 Problem Statement
+**Difficulty**: Basic
 
-This exercise focuses on finding the nth node from the end of a singly linked list. You are given a pointer to the head node of the linked list and an integer `n`. The task is to return the data value of the nth node from the end of the list.  
+## Problem Statement
+Return the value of the nth node from the end of a singly linked list (1-based `n`). If `n` is larger than the list length, return an appropriate sentinel or error.
 
-- If `n` is greater than the length of the linked list, the behavior is undefined (or may return `-1` depending on implementation).
+## Input
+- A list of integers representing the linked list.
+- An integer `n` (1-based) indicating which node from the end to return.
 
----
+## Output
+The integer value of the nth node from the end, or an indication that `n` is out of bounds.
 
----
+## Example
+Input: list = [10,20,30,40,50], n = 2
 
-## 📥 Input
+Output: 40
 
-- The first line contains an integer `n`, the number of elements in the linked list.  
-- The next `n` lines contain one element each, representing the node values.  
-- The last line contains the integer `n` specifying the position from the end to retrieve.
+## Approach
+Use two pointers: advance the first pointer `n` steps, then move both pointers until the first hits the end. The second pointer then points to the n-th from end.
 
-**Note:**  
-Do not read input from `stdin` or console. The function will receive the head reference and the integer `n`.
+## Time Complexity
+O(n)
 
----
-
----
-
-## 📤 Output
-
-_Output format not specified in original README._
-
----
-
-## 🔍 Examples
-
-5
-10
-20
-30
-40
-50
-2
-
----
-
-## 💡 Approach
-
-_Approach not described in original README._
-
-**Time Complexity:** ** \(O(n)\), where \(n\) is the number of nodes in the linked list.
-
-**Space Complexity:** ** \(O(1)\), using a two-pointer approach.
-
----
-
-## 🔁 Original README
-
-# Nth Node From End of Linked List
-
-## Problem Description
-This exercise focuses on finding the nth node from the end of a singly linked list. You are given a pointer to the head node of the linked list and an integer `n`. The task is to return the data value of the nth node from the end of the list.  
-
-- If `n` is greater than the length of the linked list, the behavior is undefined (or may return `-1` depending on implementation).
-
----
-
-## Function Description
-Complete the `getNthFromEnd` function with the following parameters:
-
-- **head**: a reference to the head of the linked list  
-- **n**: an integer representing the position from the end
-
-**Return Requirement:**  
-Return the data value of the nth node from the end.
-
----
-
-## Input Format
-- The first line contains an integer `n`, the number of elements in the linked list.  
-- The next `n` lines contain one element each, representing the node values.  
-- The last line contains the integer `n` specifying the position from the end to retrieve.
-
-**Note:**  
-Do not read input from `stdin` or console. The function will receive the head reference and the integer `n`.
-
----
-
-## Constraints
-- \( 1 \leq \text{length of linked list} \leq 10^5 \)  
-- \( 1 \leq n \leq 10^5 \)  
-- Node values can be any integer within the signed 32-bit range.
-
----
-
-## Sample Input
-5
-10
-20
-30
-40
-50
-2
-## Sample Output
-40
-
-### Explanation
-The linked list is:
-10 -> 20 -> 30 -> 40 -> 50 -> NULL
-
-The 2nd node from the end is `40`, so the function returns `40`.
-
----
-
-## Complexity Analysis
-- **Time Complexity:** \(O(n)\), where \(n\) is the number of nodes in the linked list.  
-- **Space Complexity:** \(O(1)\), using a two-pointer approach.
+## Space Complexity
+O(1)

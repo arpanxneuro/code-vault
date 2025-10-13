@@ -1,115 +1,26 @@
 # Reverse a Linked List
 
-## 📝 Problem Statement
+**Difficulty**: Basic
 
-You are given the head of a singly linked list. Your task is to reverse the linked list and return the new head of the reversed list.  
+## Problem Statement
+Reverse a singly linked list and return the new head.
 
-The reversal should be done **in-place**, meaning no new nodes should be created; only the pointers should be rearranged.
+## Input
+- A singly linked list represented by its head.
 
----
+## Output
+The head of the reversed linked list.
 
----
+## Example
+Input: [1,2,3,4]
 
-## 📥 Input
+Output: [4,3,2,1]
 
-- The first line contains an integer `n`, the number of nodes in the linked list.  
-- The next `n` lines contain one integer each, representing the values of the nodes.
+## Approach
+Iteratively reverse the `next` pointers by keeping track of previous, current and next nodes. A recursive solution is also possible.
 
-**Note:**  
-Do not read input from `stdin` or console. The function will receive the head reference directly.
+## Time Complexity
+O(n)
 
----
-
----
-
-## 📤 Output
-
-Return the head of the reversed linked list. Each node’s value should be printed on a new line during testing.
-
----
-
----
-
-## 🔍 Examples
-
-3
-1
-2
-3
-
----
-
-## 💡 Approach
-
-_Approach not described in original README._
-
-**Time Complexity:** ** \(O(n)\), where \(n\) is the number of nodes in the linked list.
-
-**Space Complexity:** ** \(O(1)\), as the reversal is done in-place with constant extra space.
-
----
-
-## 🔁 Original README
-
-# Reverse a Linked List
-
-## Problem Description
-You are given the head of a singly linked list. Your task is to reverse the linked list and return the new head of the reversed list.  
-
-The reversal should be done **in-place**, meaning no new nodes should be created; only the pointers should be rearranged.
-
----
-
-## Function Description
-Complete the `reverseLinkedList` function with the following parameter:
-
-- **head**: a reference to the head of the linked list.
-
-**Return:**  
-The head node of the reversed linked list.
-
----
-
-## Input Format
-- The first line contains an integer `n`, the number of nodes in the linked list.  
-- The next `n` lines contain one integer each, representing the values of the nodes.
-
-**Note:**  
-Do not read input from `stdin` or console. The function will receive the head reference directly.
-
----
-
-## Constraints
-- \(1 \leq n \leq 1000\)  
-- Node values are integers in the range \([-10^9, 10^9]\).
-
----
-
-## Output Format
-Return the head of the reversed linked list. Each node’s value should be printed on a new line during testing.
-
----
-
-## Sample Input
-3
-1
-2
-3
-
-## Sample Output
-3
-2
-1
-
-### Explanation
-Original linked list:  
-1 -> 2 -> 3 -> NULL
-
-Reversed linked list:  
-3 -> 2 -> 1 -> NULL
-
----
-
-## Complexity Analysis
-- **Time Complexity:** \(O(n)\), where \(n\) is the number of nodes in the linked list.  
-- **Space Complexity:** \(O(1)\), as the reversal is done in-place with constant extra space.
+## Space Complexity
+O(1) iterative, O(n) recursive stack

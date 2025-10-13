@@ -1,0 +1,17 @@
+{
+  "title": "w4-p1-insert-in-sorted-way-in-a-sorted-dll",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "medium",
+  "tags": [
+    "doubly-linked-list",
+    "linked list",
+    "data structures"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-03"
+}

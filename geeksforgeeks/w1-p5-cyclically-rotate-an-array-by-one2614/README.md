@@ -1,62 +1,23 @@
-# Example 1:
+# Cyclically Rotate an Array by One2614
+
+> **Difficulty**: Basic  
+> **Accuracy**:   
+> **Submissions**:   
+> **Points**: 
+
+---
 
 ## 📝 Problem Statement
-
-```text
-Input:  arr = [1, 2, 3, 4, 5]
-Output: [5, 1, 2, 3, 4]
-```
-
----
-
-## 📥 Input
-
-- An integer array `arr[]` of size `n`.
-
----
-
-## 📤 Output
-
-- Return or print the updated array after rotating by one position in the clockwise direction.
-
----
-
----
-
-## 🔍 Examples
-
-_No examples provided in original README._
-
----
-
-## 💡 Approach
-
-_Approach not described in original README._
-
-**Time Complexity:** O(n)
-
-**Space Complexity:** O(1)
-
----
-
-## 🔁 Original README
-
-# 🔁 Rotate Array by One (Clockwise)
-
-## 🧩 Problem Statement
 
 Given an array `arr[]`, your task is to rotate it **by one position in the clockwise direction**. That is, the last element of the array becomes the first, and all other elements are shifted one index forward.
 
 ---
 
+---
+
 ## 📥 Input
 
 - An integer array `arr[]` of size `n`.
-
-### 🔒 Constraints
-
-- `1 <= arr.length <= 10⁵`
-- `0 <= arr[i] <= 10⁵`
 
 ---
 
@@ -66,15 +27,28 @@ Given an array `arr[]`, your task is to rotate it **by one position in the clock
 
 ---
 
+---
+
 ## ✅ Examples
 
-### Example 1:
-```text
-Input:  arr = [1, 2, 3, 4, 5]
-Output: [5, 1, 2, 3, 4]
-```
-### Example 2:
-```text
-Input:  arr = [9, 8, 7, 6, 4, 2, 1, 3]
-Output: [3, 9, 8, 7, 6, 4, 2, 1]
-```
+Input:
+3 3
+1 2 3
+4 5 6
+7 8 9
+Output (spiral): 1 2 3 6 9 8 7 4 5
+
+---
+
+## 🧪 Test Cases
+
+| Input | Output |
+|---|---|
+| `3 3
+1 2 3
+4 5 6
+7 8 9` | `1 2 3 6 9 8 7 4 5` |
+
+**Time Complexity:** O(n)
+
+**Space Complexity:** O(1)

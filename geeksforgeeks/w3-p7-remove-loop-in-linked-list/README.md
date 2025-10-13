@@ -1,107 +1,26 @@
 # Remove Loop in Linked List
 
-## 📝 Problem Statement
+**Difficulty:** Intermediate
 
-This exercise focuses on detecting and removing a loop in a linked list. You are given a pointer to the head node of a linked list. Your task is to remove the loop, if present, so that the linked list becomes linear. If no loop exists, the list should remain unchanged.
+## Problem Statement
+Given a linked list that contains a loop, remove the loop so that the list becomes linear. Preserve node order outside the loop.
 
----
+## Input
+- A linked list that contains a cycle.
 
-## 📥 Input
+## Output
+The linked list after the cycle has been removed.
 
-- The first line of input contains an integer `n`, the number of elements in the linked list.  
-- The next `n` lines contain one element each, representing the data values for the nodes.  
-- A loop may exist where a node points back to a previous node in the list.
+## Example
+Input: 1 -> 2 -> 3 -> 4 -> 2 (cycle)
 
-**Note:**  
-Do not read input from `stdin` or console. The function will receive the list head reference.
+Output: 1 -> 2 -> 3 -> 4 -> null
 
----
+## Approach
+Detect the loop using Floyd's algorithm. Once meeting point found, reset one pointer to head and move both by one until they meet at the loop start. Then set the node just before the loop start `next` to `null`.
 
----
+## Time Complexity
+O(n)
 
-## 📤 Output
-
-_Output format not specified in original README._
-
----
-
-## 🔍 Examples
-
-3
-1
-3
-4
-
-markdown
-Copy code
-**Loop Example:** Node with value `4` points back to node with value `3`.
-
----
-
-## 💡 Approach
-
-_Approach not described in original README._
-
-**Time Complexity:** ** \(O(n)\), where \(n\) is the number of nodes in the linked list.
-
-**Space Complexity:** ** \(O(1)\), since the solution uses only pointers without extra storage.
-
----
-
-## 🔁 Original README
-
-# Remove Loop in Linked List
-
-## Problem Description
-This exercise focuses on detecting and removing a loop in a linked list. You are given a pointer to the head node of a linked list. Your task is to remove the loop, if present, so that the linked list becomes linear. If no loop exists, the list should remain unchanged.
-
-### Function Description
-Complete the `removeLoop` function with the following parameter:
-
-- **head**: a reference to the head of the list
-
-**Note:** Do not print anything from this function. The function should modify the linked list in place to remove the loop.
-
----
-
-## Input Format
-- The first line of input contains an integer `n`, the number of elements in the linked list.  
-- The next `n` lines contain one element each, representing the data values for the nodes.  
-- A loop may exist where a node points back to a previous node in the list.
-
-**Note:**  
-Do not read input from `stdin` or console. The function will receive the list head reference.
-
----
-
-## Constraints
-- \( 1 \leq n \leq 10^5 \)  
-- Node values can be any integer within the signed 32-bit range.  
-
----
-
-## Sample Input
-3
-1
-3
-4
-
-markdown
-Copy code
-**Loop Example:** Node with value `4` points back to node with value `3`.
-
-## Sample Output
-1 3 4
-
-### Explanation
-The linked list initially contains a loop:
-1 -> 3 -> 4 -> 3 (loop back)
-
-After calling `removeLoop`, the list becomes linear:
-1 -> 3 -> 4 -> NULL
-
----
-
-## Complexity Analysis
-- **Time Complexity:** \(O(n)\), where \(n\) is the number of nodes in the linked list.  
-- **Space Complexity:** \(O(1)\), since the solution uses only pointers without extra storage.
+## Space Complexity
+O(1)
