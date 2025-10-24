@@ -18,9 +18,9 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 
 | Tracking                | Weeks                    |
 | ------------------------|--------------------------|
-| **Completed Week Sets** | Week 1, week 2           |
-| **Pending Week Sets**   | Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10 |
-| **Current Week Set**    | Week 3                   |
+| **Completed Week Sets** | Week 1, Week 2, Week 3, Week 7 |
+| **Pending Week Sets**   | Week 5, Week 6, Week 8, Week 9, Week 10 |
+| **Current Week Set**    | Week 4                   |
 
 ---
 
@@ -29,8 +29,8 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 | Platform     | Problems Solved    | Last Updated  |
 |--------------|--------------------|---------------|
 | LeetCode     | 02                 | 2025-07-15    |
-| HackerRank   | 02                 | 2025-09-10    |
-| GFG          | 27                 | 2025-10-02    |
+| HackerRank   | 03                 | 2025-09-10    |
+| GFG          | 35                 | 2025-10-25    |
 
 ---
 
@@ -83,3 +83,11 @@ A quick index of problems in this vault with links to their folders and the plat
 | Print the Elements of a Linked List | [hackerrank/w3-p10-print-the-elements-of-a-linked-list](./hackerrank/w3-p10-print-the-elements-of-a-linked-list/) | HackerRank |
 | Two Sum | [leetcode/001-two-sum](./leetcode/001-two-sum/) | LeetCode |
 | Palindrome Number | [leetcode/009-palindrome-number](./leetcode/009-palindrome-number/) | LeetCode |
+| Print N to 1 Without Loop | [geeksforgeeks/w7-p1-print-n-to-1-without-loop](./geeksforgeeks/w7-p1-print-n-to-1-without-loop/) | GeeksforGeeks |
+| Sum of Digits | [geeksforgeeks/w7-p2-sum-of-digits1742](./geeksforgeeks/w7-p2-sum-of-digits1742/) | GeeksforGeeks |
+| Factorial | [geeksforgeeks/w7-p3-factorial5739](./geeksforgeeks/w7-p3-factorial5739/) | GeeksforGeeks |
+| Fibonacci Series Up to Nth Term | [geeksforgeeks/w7-p4-fibonacci-series-up-to-nth-term](./geeksforgeeks/w7-p4-fibonacci-series-up-to-nth-term/) | GeeksforGeeks |
+| Palindrome String (Recursive) | [geeksforgeeks/w7-p6-palindrome-string0817](./geeksforgeeks/w7-p6-palindrome-string0817/) | GeeksforGeeks |
+| GCD of Two Numbers | [geeksforgeeks/w7-p7-gcd-of-two-numbers3459](./geeksforgeeks/w7-p7-gcd-of-two-numbers3459/) | GeeksforGeeks |
+| Power of Numbers | [geeksforgeeks/w7-p8-power-of-numbers-1587115620](./geeksforgeeks/w7-p8-power-of-numbers-1587115620/) | GeeksforGeeks |
+| Count Number of Substrings | [geeksforgeeks/w7-p9-count-number-of-substrings4528](./geeksforgeeks/w7-p9-count-number-of-substrings4528/) | GeeksforGeeks |

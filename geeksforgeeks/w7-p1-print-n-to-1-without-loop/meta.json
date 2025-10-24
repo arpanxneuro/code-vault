@@ -1,0 +1,15 @@
+{
+  "title": "w7-p1-print-n-to-1-without-loop",
+  "languages": [
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "recursion",
+    "algorithms"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(n)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-24"
+}

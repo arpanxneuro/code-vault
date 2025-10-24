@@ -1,0 +1,17 @@
+{
+  "title": "w7-p4-fibonacci-series-up-to-nth-term",
+  "languages": [
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "recursion",
+    "fibonacci",
+    "algorithms",
+    "dynamic programming"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-24"
+}

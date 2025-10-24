@@ -1,0 +1,18 @@
+{
+  "title": "w7-p9-count-number-of-substrings4528",
+  "languages": [
+    "py"
+  ],
+  "difficulty": "medium",
+  "tags": [
+    "sliding-window",
+    "two-pointers-algorithm",
+    "strings",
+    "dynamic programming",
+    "algorithms"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-24"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "w7-p3-factorial5739",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "mathematical",
+    "algorithms"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-24"
+}

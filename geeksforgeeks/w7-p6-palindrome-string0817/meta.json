@@ -1,0 +1,17 @@
+{
+  "title": "w7-p6-palindrome-string0817",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "string",
+    "data structures",
+    "two-pointer-algorithms"
+  ],
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-24"
+}

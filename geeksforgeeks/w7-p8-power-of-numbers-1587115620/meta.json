@@ -1,0 +1,18 @@
+{
+  "title": "w7-p8-power-of-numbers-1587115620",
+  "languages": [
+    "c",
+    "py"
+  ],
+  "difficulty": "medium",
+  "tags": [
+    "mathematical",
+    "algoritms",
+    "recursion",
+    "divine and conquer"
+  ],
+  "timeComplexity": "O(log n)",
+  "spaceComplexity": "O(log n)",
+  "platform": "GeeksforGeeks",
+  "solvedOn": "2025-10-24"
+}
