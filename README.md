@@ -4,90 +4,129 @@ A centralized vault of coding problems and algorithmic solutions categorized by 
 
 > 🚀 Built to organize and track my problem-solving journey across LeetCode, GeeksforGeeks, HackerRank and more.
 
----
+## � Quick Problem Finder
+### By Platform
+- [GeeksforGeeks Problems](./geeksforgeeks/)
+- [HackerRank Problems](./hackerrank/)
+- [LeetCode Problems](./leetcode/)
 
-## 📚 Platforms Covered
+## �📊 Progress Dashboard
 
-- [LeetCode](./leetcode/)
-- [GeeksforGeeks](./geeksforgeeks/)
-- [HackerRank](./hackerrank/)
+### � Solved Problems by Platform
 
----
+| Platform | Problems Solved | Last Updated | Status |
+|----------|----------------|--------------|---------|
+| GeeksforGeeks | 35 | 2025-10-25 | ✅ Active |
+| HackerRank | 03 | 2025-09-10 | 🟡 Occasional |
+| LeetCode | 02 | 2025-07-15 | 🟡 Occasional |
+| **Total** | **40** | 2025-10-25 | 🚀 On Track |
 
-## 🗓️ Week Tracking
+### 🗓️ Weekly Progress
 
-| Tracking                | Weeks                    |
-| ------------------------|--------------------------|
-| **Completed Week Sets** | Week 1, Week 2, Week 3, Week 7 |
-| **Pending Week Sets**   | Week 5, Week 6, Week 8, Week 9, Week 10 |
-| **Current Week Set**    | Week 4                   |
+| Status | Week Set | Topic Focus |
+|--------|-----------|-------------|
+| ✅ Done | Week 1 | Arrays & Strings |
+| ✅ Done | Week 2 | Matrices & Polynomials |
+| ✅ Done | Week 3 | Linked Lists |
+| 🔄 Current | Week 4 | Advanced Linked Lists |
+| ⏳ Pending | Week 5-6, 8-10 | Advanced Topics |
+| ✅ Done | Week 7 | Recursion |
 
----
+## 📋 Problem Index
 
-## 📈 Progress Snapshot
+### 🏗️ GeeksforGeeks Problems
 
-| Platform     | Problems Solved    | Last Updated  |
-|--------------|--------------------|---------------|
-| LeetCode     | 02                 | 2025-07-15    |
-| HackerRank   | 03                 | 2025-09-10    |
-| GFG          | 35                 | 2025-10-25    |
+#### Arrays
+| Problem Statement | Repository Link | Difficulty |
+|---|---|---|
+| Array Insert at End | [w1-p1-array-insert-at-end](./geeksforgeeks/w1-p1-array-insert-at-end/) | Basic |
+| Largest Element in Array | [w1-p2-largest-element-in-array4009](./geeksforgeeks/w1-p2-largest-element-in-array4009/) | Basic |
+| Second Largest Element | [w1-p3-second-largest3735](./geeksforgeeks/w1-p3-second-largest3735/) | Basic |
+| Move All Zeroes to End | [w1-p4-move-all-zeroes-to-end-of-array0751](./geeksforgeeks/w1-p4-move-all-zeroes-to-end-of-array0751/) | Easy |
+| Cyclically Rotate an Array | [w1-p5-cyclically-rotate-an-array-by-one2614](./geeksforgeeks/w1-p5-cyclically-rotate-an-array-by-one2614/) | Basic |
+| Check if Array is Sorted | [w1-p6-check-if-an-array-is-sorted0701](./geeksforgeeks/w1-p6-check-if-an-array-is-sorted0701/) | Basic |
+| Frequency of Array Elements | [w1-p9-frequency-of-array-elements-1587115620](./geeksforgeeks/w1-p9-frequency-of-array-elements-1587115620/) | Easy |
 
----
+#### Strings
+| Problem Statement | Repository Link | Difficulty |
+|---|---|---|
+| Reverse a String | [w1-p7-reverse-a-string](./geeksforgeeks/w1-p7-reverse-a-string/) | Basic |
+| Palindrome String | [w1-p8-palindrome-string0817](./geeksforgeeks/w1-p8-palindrome-string0817/) | Basic |
 
-## 🧱 File Naming Convention
+#### Matrices
+| Problem Statement | Repository Link | Difficulty |
+|---|---|---|
+| Spirally Traversing Matrix | [w2-p1-spirally-traversing-a-matrix-1587115621](./geeksforgeeks/w2-p1-spirally-traversing-a-matrix-1587115621/) | Medium |
+| Rotate Matrix by 90° | [w2-p2-rotate-by-90-degree-1587115621](./geeksforgeeks/w2-p2-rotate-by-90-degree-1587115621/) | Medium |
+| Sum of Diagonals | [w2-p3-sum-of-diagonals-1587115621](./geeksforgeeks/w2-p3-sum-of-diagonals-1587115621/) | Basic |
+| Transpose of Matrix | [w2-p4-transpose-of-matrix-1587115621](./geeksforgeeks/w2-p4-transpose-of-matrix-1587115621/) | Basic |
+| Count Zeros in Matrix | [w2-p10-count-zeros-in-a-sorted-matrix](./geeksforgeeks/w2-p10-count-zeros-in-a-sorted-matrix/) | Easy |
+
+#### Mathematics
+| Problem Statement | Repository Link | Difficulty |
+|---|---|---|
+| Polynomial Addition | [w2-p6-plynomial-addition](./geeksforgeeks/w2-p6-plynomial-addition/) | Medium |
+| Multiply Polynomials | [w2-p7-multiply-two-polynomals0721](./geeksforgeeks/w2-p7-multiply-two-polynomals0721/) | Medium |
+
+#### Linked Lists
+| Problem Statement | Repository Link | Difficulty |
+|---|---|---|
+| Linked List Insertion | [w3-p1-linked-list-insertion-1587115620](./geeksforgeeks/w3-p1-linked-list-insertion-1587115620/) | Basic |
+| Insert in Middle of List | [w3-p2-insert-in-middle-of-linked-list](./geeksforgeeks/w3-p2-insert-in-middle-of-linked-list/) | Basic |
+| Delete Node from List | [w3-p3-delete-a-node-in-single-linked-list](./geeksforgeeks/w3-p3-delete-a-node-in-single-linked-list/) | Basic |
+| Search in List | [w3-p4-search-in-linked-list-1664434326](./geeksforgeeks/w3-p4-search-in-linked-list-1664434326/) | Basic |
+| Nth Node from End | [w3-p5-nth-node-from-end-of-linked-list](./geeksforgeeks/w3-p5-nth-node-from-end-of-linked-list/) | Easy |
+| Detect Loop in List | [w3-p6-detect-loop-in-linked-list](./geeksforgeeks/w3-p6-detect-loop-in-linked-list/) | Easy |
+| Remove Loop from List | [w3-p7-remove-loop-in-linked-list](./geeksforgeeks/w3-p7-remove-loop-in-linked-list/) | Medium |
+| Reverse a List | [w3-p8-reverse-a-linked-list](./geeksforgeeks/w3-p8-reverse-a-linked-list/) | Easy |
+| Add Numbers in Lists | [w3-p9-add-two-numbers-represented-by-linked-lists](./geeksforgeeks/w3-p9-add-two-numbers-represented-by-linked-lists/) | Medium |
+
+#### Advanced Lists
+| Problem Statement | Repository Link | Difficulty |
+|---|---|---|
+| Insert in Sorted DLL | [w4-p1-insert-in-sorted-way-in-a-sorted-dll](./geeksforgeeks/w4-p1-insert-in-sorted-way-in-a-sorted-dll/) | Easy |
+| Delete from DLL | [w4-p2-delete-node-in-doubly-linked-list](./geeksforgeeks/w4-p2-delete-node-in-doubly-linked-list/) | Basic |
+| Reverse a DLL | [w4-p3-reverse-a-doubly-linked-list](./geeksforgeeks/w4-p3-reverse-a-doubly-linked-list/) | Easy |
+| Insert in Circular List | [w4-p4-sorted-insert-for-circular-linked-list](./geeksforgeeks/w4-p4-sorted-insert-for-circular-linked-list/) | Medium |
+
+#### Recursion
+| Problem Statement | Repository Link | Difficulty |
+|---|---|---|
+| Print N to 1 | [w7-p1-print-n-to-1-without-loop](./geeksforgeeks/w7-p1-print-n-to-1-without-loop/) | Basic |
+| Sum of Digits | [w7-p2-sum-of-digits1742](./geeksforgeeks/w7-p2-sum-of-digits1742/) | Basic |
+| Factorial | [w7-p3-factorial5739](./geeksforgeeks/w7-p3-factorial5739/) | Basic |
+| Fibonacci Series | [w7-p4-fibonacci-series-up-to-nth-term](./geeksforgeeks/w7-p4-fibonacci-series-up-to-nth-term/) | Basic |
+| Palindrome String | [w7-p6-palindrome-string0817](./geeksforgeeks/w7-p6-palindrome-string0817/) | Basic |
+| GCD of Numbers | [w7-p7-gcd-of-two-numbers3459](./geeksforgeeks/w7-p7-gcd-of-two-numbers3459/) | Basic |
+| Power of Numbers | [w7-p8-power-of-numbers-1587115620](./geeksforgeeks/w7-p8-power-of-numbers-1587115620/) | Medium |
+| Count Substrings | [w7-p9-count-number-of-substrings4528](./geeksforgeeks/w7-p9-count-number-of-substrings4528/) | Medium |
+
+### 🎯 HackerRank Problems
+
+| Problem Statement | Repository Link | Difficulty |
+|---|---|---|
+| Reverse Array | [w1-p10-arrays-ds-reverse-an-array-of-integers](./hackerrank/w1-p10-arrays-ds-reverse-an-array-of-integers/) | Easy |
+| Dynamic Array | [w2-p8-dynamic-array](./hackerrank/w2-p8-dynamic-array/) | Medium |
+| Print Linked List | [w3-p10-print-the-elements-of-a-linked-list](./hackerrank/w3-p10-print-the-elements-of-a-linked-list/) | Easy |
+
+### ⭐ LeetCode Problems
+
+| Problem Statement | Repository Link | Difficulty |
+|---|---|---|
+| Two Sum | [001-two-sum](./leetcode/001-two-sum/) | Easy |
+| Palindrome Number | [009-palindrome-number](./leetcode/009-palindrome-number/) | Easy |
+
+## 📁 Repository Structure
 
 ```bash
-## only for LeetCode
-<problem-id>-<kebab-case-title>.<language-ext>
+code-vault/
+├── geeksforgeeks/       # GeeksforGeeks problems by week
+│   ├── w1-*/           # Week 1: Arrays & Strings
+│   ├── w2-*/           # Week 2: Matrices
+│   ├── w3-*/           # Week 3: Linked Lists
+│   ├── w4-*/           # Week 4: Advanced Lists
+│   └── w7-*/           # Week 7: Recursion
+├── hackerrank/         # HackerRank problems
+└── leetcode/           # LeetCode problems
+    └── ***-*/         # Format: id-problem-name
 ```
-
----
-
-## 📋 Problems index
-
-A quick index of problems in this vault with links to their folders and the platform they belong to.
-
-| Problem Statement | Repo link | Platform |
-|---|---|---|
-| Array Insert at End | [geeksforgeeks/w1-p1-array-insert-at-end](./geeksforgeeks/w1-p1-array-insert-at-end/) | GeeksforGeeks |
-| Largest Element in Array | [geeksforgeeks/w1-p2-largest-element-in-array4009](./geeksforgeeks/w1-p2-largest-element-in-array4009/) | GeeksforGeeks |
-| Second Largest Element | [geeksforgeeks/w1-p3-second-largest3735](./geeksforgeeks/w1-p3-second-largest3735/) | GeeksforGeeks |
-| Move All Zeroes to End | [geeksforgeeks/w1-p4-move-all-zeroes-to-end-of-array0751](./geeksforgeeks/w1-p4-move-all-zeroes-to-end-of-array0751/) | GeeksforGeeks |
-| Cyclically Rotate an Array by One | [geeksforgeeks/w1-p5-cyclically-rotate-an-array-by-one2614](./geeksforgeeks/w1-p5-cyclically-rotate-an-array-by-one2614/) | GeeksforGeeks |
-| Check if an Array is Sorted | [geeksforgeeks/w1-p6-check-if-an-array-is-sorted0701](./geeksforgeeks/w1-p6-check-if-an-array-is-sorted0701/) | GeeksforGeeks |
-| Reverse a String | [geeksforgeeks/w1-p7-reverse-a-string](./geeksforgeeks/w1-p7-reverse-a-string/) | GeeksforGeeks |
-| Palindrome String | [geeksforgeeks/w1-p8-palindrome-string0817](./geeksforgeeks/w1-p8-palindrome-string0817/) | GeeksforGeeks |
-| Frequency of Array Elements | [geeksforgeeks/w1-p9-frequency-of-array-elements-1587115620](./geeksforgeeks/w1-p9-frequency-of-array-elements-1587115620/) | GeeksforGeeks |
-| Spirally Traversing a Matrix | [geeksforgeeks/w2-p1-spirally-traversing-a-matrix-1587115621](./geeksforgeeks/w2-p1-spirally-traversing-a-matrix-1587115621/) | GeeksforGeeks |
-| Count Zeros in a Sorted Matrix | [geeksforgeeks/w2-p10-count-zeros-in-a-sorted-matrix](./geeksforgeeks/w2-p10-count-zeros-in-a-sorted-matrix/) | GeeksforGeeks |
-| Rotate by 90 Degree | [geeksforgeeks/w2-p2-rotate-by-90-degree-1587115621](./geeksforgeeks/w2-p2-rotate-by-90-degree-1587115621/) | GeeksforGeeks |
-| Sum of Diagonals | [geeksforgeeks/w2-p3-sum-of-diagonals-1587115621](./geeksforgeeks/w2-p3-sum-of-diagonals-1587115621/) | GeeksforGeeks |
-| Transpose of Matrix | [geeksforgeeks/w2-p4-transpose-of-matrix-1587115621](./geeksforgeeks/w2-p4-transpose-of-matrix-1587115621/) | GeeksforGeeks |
-| Polynomial Addition | [geeksforgeeks/w2-p6-plynomial-addition](./geeksforgeeks/w2-p6-plynomial-addition/) | GeeksforGeeks |
-| Multiply Two Polynomials | [geeksforgeeks/w2-p7-multiply-two-polynomals0721](./geeksforgeeks/w2-p7-multiply-two-polynomals0721/) | GeeksforGeeks |
-| Linked List Insertion | [geeksforgeeks/w3-p1-linked-list-insertion-1587115620](./geeksforgeeks/w3-p1-linked-list-insertion-1587115620/) | GeeksforGeeks |
-| Insert in Middle of Linked List | [geeksforgeeks/w3-p2-insert-in-middle-of-linked-list](./geeksforgeeks/w3-p2-insert-in-middle-of-linked-list/) | GeeksforGeeks |
-| Delete a Node in Single Linked List | [geeksforgeeks/w3-p3-delete-a-node-in-single-linked-list](./geeksforgeeks/w3-p3-delete-a-node-in-single-linked-list/) | GeeksforGeeks |
-| Search in Linked List | [geeksforgeeks/w3-p4-search-in-linked-list-1664434326](./geeksforgeeks/w3-p4-search-in-linked-list-1664434326/) | GeeksforGeeks |
-| Nth Node from End of Linked List | [geeksforgeeks/w3-p5-nth-node-from-end-of-linked-list](./geeksforgeeks/w3-p5-nth-node-from-end-of-linked-list/) | GeeksforGeeks |
-| Detect Loop in Linked List | [geeksforgeeks/w3-p6-detect-loop-in-linked-list](./geeksforgeeks/w3-p6-detect-loop-in-linked-list/) | GeeksforGeeks |
-| Remove Loop in Linked List | [geeksforgeeks/w3-p7-remove-loop-in-linked-list](./geeksforgeeks/w3-p7-remove-loop-in-linked-list/) | GeeksforGeeks |
-| Reverse a Linked List | [geeksforgeeks/w3-p8-reverse-a-linked-list](./geeksforgeeks/w3-p8-reverse-a-linked-list/) | GeeksforGeeks |
-| Add Two Numbers Represented by Linked Lists | [geeksforgeeks/w3-p9-add-two-numbers-represented-by-linked-lists](./geeksforgeeks/w3-p9-add-two-numbers-represented-by-linked-lists/) | GeeksforGeeks |
-| Insert in Sorted Way in a Sorted Doubly Linked List | [geeksforgeeks/w4-p1-insert-in-sorted-way-in-a-sorted-dll](./geeksforgeeks/w4-p1-insert-in-sorted-way-in-a-sorted-dll/) | GeeksforGeeks |
-| Delete Node in Doubly Linked List | [geeksforgeeks/w4-p2-delete-node-in-doubly-linked-list](./geeksforgeeks/w4-p2-delete-node-in-doubly-linked-list/) | GeeksforGeeks |
-| Reverse a Doubly Linked List | [geeksforgeeks/w4-p3-reverse-a-doubly-linked-list](./geeksforgeeks/w4-p3-reverse-a-doubly-linked-list/) | GeeksforGeeks |
-| Sorted Insert for Circular Linked List | [geeksforgeeks/w4-p4-sorted-insert-for-circular-linked-list](./geeksforgeeks/w4-p4-sorted-insert-for-circular-linked-list/) | GeeksforGeeks |
-| Reverse an Array of Integers | [hackerrank/w1-p10-arrays-ds-reverse-an-array-of-integers](./hackerrank/w1-p10-arrays-ds-reverse-an-array-of-integers/) | HackerRank |
-| Dynamic Array | [hackerrank/w2-p8-dynamic-array](./hackerrank/w2-p8-dynamic-array/) | HackerRank |
-| Print the Elements of a Linked List | [hackerrank/w3-p10-print-the-elements-of-a-linked-list](./hackerrank/w3-p10-print-the-elements-of-a-linked-list/) | HackerRank |
-| Two Sum | [leetcode/001-two-sum](./leetcode/001-two-sum/) | LeetCode |
-| Palindrome Number | [leetcode/009-palindrome-number](./leetcode/009-palindrome-number/) | LeetCode |
-| Print N to 1 Without Loop | [geeksforgeeks/w7-p1-print-n-to-1-without-loop](./geeksforgeeks/w7-p1-print-n-to-1-without-loop/) | GeeksforGeeks |
-| Sum of Digits | [geeksforgeeks/w7-p2-sum-of-digits1742](./geeksforgeeks/w7-p2-sum-of-digits1742/) | GeeksforGeeks |
-| Factorial | [geeksforgeeks/w7-p3-factorial5739](./geeksforgeeks/w7-p3-factorial5739/) | GeeksforGeeks |
-| Fibonacci Series Up to Nth Term | [geeksforgeeks/w7-p4-fibonacci-series-up-to-nth-term](./geeksforgeeks/w7-p4-fibonacci-series-up-to-nth-term/) | GeeksforGeeks |
-| Palindrome String (Recursive) | [geeksforgeeks/w7-p6-palindrome-string0817](./geeksforgeeks/w7-p6-palindrome-string0817/) | GeeksforGeeks |
-| GCD of Two Numbers | [geeksforgeeks/w7-p7-gcd-of-two-numbers3459](./geeksforgeeks/w7-p7-gcd-of-two-numbers3459/) | GeeksforGeeks |
-| Power of Numbers | [geeksforgeeks/w7-p8-power-of-numbers-1587115620](./geeksforgeeks/w7-p8-power-of-numbers-1587115620/) | GeeksforGeeks |
-| Count Number of Substrings | [geeksforgeeks/w7-p9-count-number-of-substrings4528](./geeksforgeeks/w7-p9-count-number-of-substrings4528/) | GeeksforGeeks |
